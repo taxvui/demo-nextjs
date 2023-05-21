@@ -1,0 +1,24 @@
+{
+  "name": "nextjs-i18next-multi-language-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "i": "^0.3.7",
+    "next": "12.2.2",
+    "next-i18next": "^11.0.0",
+    "npm": "^8.14.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.19.0",
+    "eslint-config-next": "12.2.2"
+  }
+}

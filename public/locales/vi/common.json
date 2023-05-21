@@ -1,0 +1,14 @@
+{
+  "home": {
+    "Home title": "Đây là trang chủ",
+    "Home description": "Bắt đầu thử xem nào"
+  },
+  "about": {
+    "About title": "Giới thiệu về workspace",
+    "About description": "About description"
+  },
+  "header": {
+    "Home": "Trang chủ",
+    "About": "Giới Thiệu"
+  }
+}
